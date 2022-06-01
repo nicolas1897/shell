@@ -1,1 +1,1 @@
-second readme
+In this repository I am learning about scripts by completing many tasks. 
