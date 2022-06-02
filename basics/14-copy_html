@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -nRu root/shell/basics/*.html root/shell
+cp -nRu *.html root/shell
