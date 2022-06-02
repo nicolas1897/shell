@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -nu /tmp/*.html ~/shell
+cp /tmp/*.html ~/shell
