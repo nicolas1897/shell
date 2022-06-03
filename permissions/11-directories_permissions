@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 777 ~/shell
+chmod 777 ~/shell/permissions
