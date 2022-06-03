@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown vincent chrp staff ~/shell/permissions
+sudo chown vincent:staff ~/shell/permissions
