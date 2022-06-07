@@ -1,0 +1,2 @@
+#!/bin/bash
+find ~/shell/io_redirections_and_filters -empty | sort -rnk 2
