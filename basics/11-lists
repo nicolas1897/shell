@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -anr /boot ~/shell ~/shell/basics 
+ls -al . .. /boot 
