@@ -1,2 +1,2 @@
 #!/bin/bash
-cat list.nicolas | sort |uniq -u
+sort | uniq -u
