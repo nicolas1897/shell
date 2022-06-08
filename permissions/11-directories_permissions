@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +rwx ~/shell/permissions
+chmod a+X *
